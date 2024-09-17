@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey there! I’m Srujan Ponnala, a Computer Science graduate passionate about building, experimenting, and exploring new tech frontiers. This GitHub serves as a collection of all the exciting projects I’ve worked on—each representing a key milestone in my coding journey. With a strong foundation in full-stack development and data science, I recently completed my Master’s in Computer Science from Purdue University and am eager to kickstart my career as a professional developer.
 
-<!--
-**srujan-ponnala/srujan-ponnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me<br>
+👨🏻‍🎓 Master’s in Computer Science @ Purdue University<br>
+🌐 Passionate about technology and driven to create solutions that make a difference.<br>
 
-Here are some ideas to get you started:
+## 🛠 Skills<br>
+♨ Languages: Python, C#, JavaScript (Vanilla.js), Java, R<br>
+⛁ Databases: MongoDB, PostgreSQL, MySQLs, SQL Server<br>
+🧩 Frameworks: React.js, Node.js, Express.js, Django-REST API, Spring Boot<br>
+☁️ Cloud Service Providers: AWS (AWS Certified Solutions Architect – Associate)<br>
+⚙️ Tools: Git, Figma<br>
+<br>
+.. and follow my LinkedIn for more information https://www.linkedin.com/in/ponns01/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 GitHub Stats
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srujan-ponnala&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+📫 Get in Touch
+Email: srujanponnala144@gmail.com
